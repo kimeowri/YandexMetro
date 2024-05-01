@@ -145,11 +145,11 @@
 
 ### Проектирование тестовой документации
 
-![Чек-лист_ мобильное приложение-2](https://github.com/SofiiaSleptsova/Yandex_Metro/assets/147629405/6427ddfa-2563-45d8-b0b4-e77416e4d3b1)
+![Чек-лист_ мобильное приложение-2]()
 
 ### Выполнение тестов
 
-[Тестовая документация с кликабельными ссылками на баг-репорты](https://docs.google.com/spreadsheets/d/1y_dVZCaKWYKP17JVRHCYdO9HxVyHSlECJB6-uux_4oA/edit?usp=sharing)
+[Тестовая документация с кликабельными ссылками на баг-репорты]()
 
 <details>
 
