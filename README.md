@@ -44,21 +44,21 @@
 
 ### Проектирование тестовой документации
 
-![Чек-лист_ мобильное приложение](https://docs.google.com/spreadsheets/d/1gA6NLPg8-L0pwPDYAbXYDMSMDvtLyVZzBG3-KMBqHnY/edit#gid=857523888)
+[Чек-лист_ мобильное приложение](https://docs.google.com/spreadsheets/d/1gA6NLPg8-L0pwPDYAbXYDMSMDvtLyVZzBG3-KMBqHnY/edit#gid=857523888)
 
 ### Выполнение тестов
 
 [Баг-репорты](https://kiropurr.youtrack.cloud/issues?q=tag:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B5%D1%82%D1%80%D0%BE%7D)
 
 <details>
-### Отчёт о тестировании
 
-Проведено тестирование 25 чек-листа. Из 25 успешно прошло 148, не прошло 11
+  ***Отчёт о тестировании***
+
+Проведено тестирование 25 чек-листа. Из 25 успешно прошло 14, не прошло 11
 Блокирующие: 0
 Критичные: 0
-Средний приоритет: 3 (https://kiropurr.youtrack.cloud/issue/10-47/Pri-otsutstvii-internet-soedineniya-ne-poyavlyaetsya-uvedomlenie-ob-oshibke)
-Низкий приоритет: 8 (https://kiropurr.youtrack.cloud/issue/10-48/Pri-smene-orientacii-ekrana-masshtab-postroennogo-marshruta-uvelichitsya-ili-umenshitsya
-https://kiropurr.youtrack.cloud/issue/10-49/Pri-skrolle-longtapom-mozhno-vybrat-nuzhnuyu-stanciyu-pri-etom-shema-ne-ostayotsya-nepodvizhnoj)
+Средний приоритет: 3 
+Низкий приоритет: 8 
 С учётом того, что блокирующих и критических багов не найдено, команда тестирования не против публикации новой версии приложения в Google Play,после исправления багов
 
 
