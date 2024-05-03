@@ -51,6 +51,7 @@
 [Баг-репорты](https://kiropurr.youtrack.cloud/issues?q=tag:%20%7B%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B5%D1%82%D1%80%D0%BE%7D)
 
 <details>
+<summary> Вывод </summary> 
 
   ***Отчёт о тестировании***
 
